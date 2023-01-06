@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @themankned
-- 👀 I’m interested in data exploration, wrangling and mining
-- 🌱 I’m currently learning python, sql
+- 👋 Hi, I’m @neduuwa
+- 👀 I’m interested in building interactive UIs
+- 🌱 I’m currently learning: react.js
 - 💞️ I’m looking to collaborate on tech-based gigs
 - 📫 How to reach me +2349035503887
 
