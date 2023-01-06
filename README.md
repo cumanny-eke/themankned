@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neduuwa
+- 👋 Hi, I’m Kned
 - 👀 I’m interested in building interactive UIs
 - 🌱 I’m currently learning: react.js
 - 💞️ I’m looking to collaborate on tech-based gigs
